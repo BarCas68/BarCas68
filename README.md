@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Banner animado -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+BarCas68;💻+Estudiante+de+Sistemas+Computacionales;🚀+Apasionado+por+la+tecnología;🔥+Un+Fénix+siempre+renace)
 
-<!--
-**BarCas68/BarCas68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🪐 Sobre mí
+✨ Estudiante de **Ing. en Sistemas Computacionales**  
+🎓 Actualmente en 5to semestre  
+🌌 Me apasiona el software, los videojuegos y el anime  
+🔥 “Un Fénix primero debe arder para luego demostrar que tras caer una y otra vez puede seguir levantándose y de sus cenizas renacer”.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# ⚔️ Skills
+<div align="center">
+
+<!-- Lenguajes -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Herramientas -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+</div>
+
+---
+
+# 📊 Stats de GitHub
+<div align="center">
+
+![BarCas68 GitHub stats](https://github-readme-stats.vercel.app/api?username=BarCas68&show_icons=true&theme=radical&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarCas68&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BarCas68&theme=radical&hide_border=false)  
+
+</div>
+
+---
+
+# 🎮 Fun facts
+- 🎮 Fan de **Hollow Knight** y del anime  
+- 🌌 Me gusta el rojo y el negro (mis colores 🔥❄️)  
+- 🚀 Aprendiendo y subiendo proyectos poco a poco  
+
+---
+
+# 📫 Contacto
+📌 Abre un issue en alguno de mis repos o mándame un mensaje.  
+
+---
+
+<!-- Footer animado -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&lines=Gracias+por+visitar+mi+perfil!;⭐+No+olvides+dar+estrella+si+te+gusta+un+repo)
