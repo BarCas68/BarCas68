@@ -5,8 +5,8 @@
 
 # 🪐 Sobre mí
 ✨ Estudiante de **Ing. en Sistemas Computacionales**  
-🎓 Actualmente en 5to semestre  
-🌌 Me apasiona el software, los videojuegos y el anime  
+🎓 Actualmente en Universidad  
+🌌 Me apasiona el software, los videojuegos y el anime.
 🔥 “Un Fénix primero debe arder para luego demostrar que tras caer una y otra vez puede seguir levantándose y de sus cenizas renacer”.  
 
 ---
@@ -44,7 +44,6 @@
 ---
 
 # 🎮 Fun facts
-- 🎮 Fan de **Hollow Knight** y del anime  
 - 🌌 Me gusta el rojo y el negro (mis colores 🔥❄️)  
 - 🚀 Aprendiendo y subiendo proyectos poco a poco  
 
