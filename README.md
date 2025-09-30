@@ -48,8 +48,6 @@
 
 ---
 
-# 📫 Contacto
-📌 Abre un issue en alguno de mis repos o mándame un mensaje.  
 
 ---
 
