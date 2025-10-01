@@ -6,7 +6,8 @@
 # 🪐 Sobre mí
 ✨ Estudiante de **Ing. en Sistemas Computacionales**  
 🎓 Actualmente en Universidad  
-🌌 Me apasiona el software, los videojuegos y el anime.
+📚💻 Aventurero de libros, explorador del software y curioso del mundo digital.
+✨ Apuntando siempre alto: mi sueño es ser desarrollador y dejar mi huella.
 🔥 “Un Fénix primero debe arder para luego demostrar que tras caer una y otra vez puede seguir levantándose y de sus cenizas renacer”.  
 
 ---
@@ -51,7 +52,6 @@
 🔴 Me gusta el color rojo  
 🚀 Aprendiendo y subiendo proyectos poco a poco  
 👀 Ojos como fuego en agua, agua oscura... como los de las salamandras 🦎
-❌ Nunca me rindo...
 
 ---
 
