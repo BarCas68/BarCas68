@@ -1,55 +1,53 @@
-<!-- Banner animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+BarCas68;💻+Estudiante+de+Sistemas+Computacionales;🚀+Apasionado+por+la+tecnología;🔥+Un+Fénix+siempre+renace)
+# 🔥 Dev • Error 💻 - Perfil Animado 🔥
+
+![Banner fuego y agua](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+Bienvenido a mi espacio digital 🔥🌊  
+Aquí el **rojo y negro** dominan, el fuego arde y el agua oscura fluye.  
 
 ---
 
-# 🪐 Sobre mí
-✨ Estudiante de **Ing. en Sistemas Computacionales**  
-🎓 Actualmente en Universidad  
-🌌 Me apasiona el software, los videojuegos y el anime.
-🔥 “Un Fénix primero debe arder para luego demostrar que tras caer una y otra vez puede seguir levantándose y de sus cenizas renacer”.  
+## 👁️ Ojos de salamandra
+**"Ojos como fuego en agua, agua oscura…"**  
+Un reflejo de fuerza, dualidad y misterio.  
+
+![Ojos de salamandra](https://media.giphy.com/media/l3vR1A2C8WzP4x2VG/giphy.gif)
 
 ---
 
-# ⚔️ Skills
-<div align="center">
+## 💡 Frase del fénix
+> "🔥Un Fénix primero debe arder para luego demostrar que caer una y otra vez puede seguir levantándose y de sus cenizas renacer🔥"
 
-<!-- Lenguajes -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<!-- Herramientas -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-</div>
+![Fénix animado](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
-# 📊 Stats de GitHub
-<div align="center">
-
-![BarCas68 GitHub stats](https://github-readme-stats.vercel.app/api?username=BarCas68&show_icons=true&theme=radical&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarCas68&layout=compact&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BarCas68&theme=radical&hide_border=false)  
-
-</div>
+## 🛠 Tecnologías que manejo
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ---
 
-# 🎮 Fun facts
-- 🌌 Me gusta el rojo y el negro (mis colores 🔥❄️)  
-- 🚀 Aprendiendo y subiendo proyectos poco a poco  
+## 📂 Proyectos destacados
+- **Animaciones y efectos:** GIFs y proyectos visuales.  
+- **Scripts y snippets:** Código funcional y reutilizable.  
+- **Proyectos de estudio:** Experimentos y prácticas de la carrera.  
+
+![Código animado](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
 
 ---
 
+## 🌟 Contacto
+- 📧 Correo: [tu correo aquí]  
+- 🌐 GitHub: [tu perfil aquí]  
+- 📝 Comentarios y sugerencias siempre bienvenidos.
 
 ---
 
-<!-- Footer animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&lines=Gracias+por+visitar+mi+perfil!⭐;)
+> ⚡ Este repositorio es una chispa de inspiración,  
+> 🔥 donde la caída solo significa renacer con más fuerza.
+
