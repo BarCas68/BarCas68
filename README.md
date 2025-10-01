@@ -51,7 +51,7 @@
 # 🎮 Datos Adicionales
 🔴 Me gusta el color rojo  
 🚀 Aprendiendo y subiendo proyectos poco a poco  
-👀 Ojos como fuego en agua, agua oscura... como los de las salamandras 🦎<br>
+<br>
 ❌ Nunca me rindo; mi meta es siempre esforzarme al máximo.
 
 ---
