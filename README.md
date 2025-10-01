@@ -6,8 +6,8 @@
 # 🪐 Sobre mí
 ✨ Estudiante de **Ing. en Sistemas Computacionales**  
 🎓 Actualmente en Universidad  
-📚💻 Aventurero de libros, explorador del software y curioso del mundo digital.
-✨ Apuntando siempre alto: mi sueño es ser desarrollador y dejar mi huella.
+📚💻 Aventurero de libros, explorador del software y curioso del mundo digital. <br>
+✨ Apuntando siempre alto: mi sueño es ser desarrollador y dejar mi huella. <br>
 🔥 “Un Fénix primero debe arder para luego demostrar que tras caer una y otra vez puede seguir levantándose y de sus cenizas renacer”.  
 
 ---
