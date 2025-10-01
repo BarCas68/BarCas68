@@ -47,9 +47,11 @@
 
 ---
 
-# 🎮 Fun facts
-- 🌌 Me gusta el rojo y el negro (mis colores 🔥❄️)  
-- 🚀 Aprendiendo y subiendo proyectos poco a poco  
+# 🎮 Datos Adicionales
+🔴 Me gusta el color rojo  
+🚀 Aprendiendo y subiendo proyectos poco a poco  
+👀 Ojos como fuego en agua, agua oscura... como los de las salamandras 🦎
+❌ Nunca me rindo...
 
 ---
 
