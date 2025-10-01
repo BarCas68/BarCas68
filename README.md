@@ -52,4 +52,4 @@
 ---
 
 <!-- Footer animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&lines=Gracias+por+visitar+mi+perfil!⭐;
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&lines=Gracias+por+visitar+mi+perfil!⭐;)
