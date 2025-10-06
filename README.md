@@ -1,5 +1,4 @@
-<!-- Banner animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Hello%2C+I´m+BarCas68;💻+Computer+Systems+Student;🚀🔥+A+Phoenix+is+always+reborn)
+<h1 align="center"><b>Hi , I'm Alan Arturo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
 
