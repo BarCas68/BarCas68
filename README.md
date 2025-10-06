@@ -1,14 +1,9 @@
 <h1 align="center"><b>Hi , I'm Alan Arturo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
-
-🪐 About me
-✨ Computer Systems Engineering student
-🎓 Currently at university
-📚💻 Bookish adventurer, software explorer, and curious about the digital world. <br>
-✨ Always aiming high: my dream is to be a developer and leave my mark. <br>
-🔥 "A phoenix must first burn to then prove that after falling again and again, it can continue to rise and be reborn from the ashes."
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+💻 I’m a Computer Systems Engineering student | Aspiring Software Engineer | Curious about coding, AI, and web development | Exploring new tech, building projects, and always learning
+- Outside tech, I enjoy 📖 reading, 🎵 listening to music, 🏯 exploring Japanese culture, and learning languages like English and Japanese.
 ---
 
 # ⚔️ Skills
