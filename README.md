@@ -2,6 +2,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEzMnUycHI2N3oxNDhhczE1Z3o4aG01N2kwc2VrYmIwajVsYmt0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right">
 ---
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<br>
 💻 I’m a Computer Systems Engineering student | Aspiring Software Engineer | Curious about coding, AI, and web development | Exploring new tech, building projects, and always learning
 - 👯 I’m looking forward to collaborate on open source projects.
 - 🌱 I’m currently learning to code.
