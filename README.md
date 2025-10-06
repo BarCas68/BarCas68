@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hi , I'm Alan Arturo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
-<img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5tcGNueDUyZ2RoZGNzNTduZ3Q2aTRua3ZxanJvcmE0YnRxZ3p2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)" width="100px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***;
+
 💻 I’m a Computer Systems Engineering student | Aspiring Software Engineer | Curious about coding, AI, and web development | Exploring new tech, building projects, and always learning
 - 👯 I’m looking forward to collaborate on open source projects.
 - 🌱 I’m currently learning to code.
