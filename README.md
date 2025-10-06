@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Alan Arturo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
-<img src="https://giphy.com/gifs/TeelingWhiskeyCompany-phoenix-teeling-whiskey-IwDAefV0OxOMxw3I3t" width="30px">&nbsp;***About me***
+<img src="[https://giphy.com/gifs/TeelingWhiskeyCompany-phoenix-teeling-whiskey-IwDAefV0OxOMxw3I3t](https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK)" width="30px">&nbsp;***About me***
 💻 I’m a Computer Systems Engineering student | Aspiring Software Engineer | Curious about coding, AI, and web development | Exploring new tech, building projects, and always learning
 - 👯 I’m looking forward to collaborate on open source projects.
 - 🌱 I’m currently learning to code.
@@ -47,6 +47,7 @@
 
 # 🎮 Additional Information
 🔴 I like the color red
+<br>
 🚀 Learning and uploading projects little by little
 <br>
 ❌  I never give up; my goal is always to do my best.
