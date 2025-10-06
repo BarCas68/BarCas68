@@ -1,14 +1,14 @@
 <!-- Banner animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+BarCas68;💻+Estudiante+de+Sistemas+Computacionales;🚀+Apasionado+por+la+tecnología;🔥+Un+Fénix+siempre+renace)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Hello%2C+I´m+BarCas68;💻+Computer+Systems+Student;🚀🔥+A+Phoenix+is+always+reborn)
 
 ---
 
-# 🪐 Sobre mí
-✨ Estudiante de **Ing. en Sistemas Computacionales**  
-🎓 Actualmente en Universidad  
-📚💻 Aventurero de libros, explorador del software y curioso del mundo digital. <br>
-✨ Apuntando siempre alto: mi sueño es ser desarrollador y dejar mi huella. <br>
-🔥 “Un Fénix primero debe arder para luego demostrar que tras caer una y otra vez puede seguir levantándose y de sus cenizas renacer”.  
+🪐 About me
+✨ Computer Systems Engineering student
+🎓 Currently at university
+📚💻 Bookish adventurer, software explorer, and curious about the digital world. <br>
+✨ Always aiming high: my dream is to be a developer and leave my mark. <br>
+🔥 "A phoenix must first burn to then prove that after falling again and again, it can continue to rise and be reborn from the ashes."
 
 ---
 
@@ -48,11 +48,11 @@
 
 ---
 
-# 🎮 Datos Adicionales
-🔴 Me gusta el color rojo  
-🚀 Aprendiendo y subiendo proyectos poco a poco  
+# 🎮 Additional Information
+🔴 I like the color red
+🚀 Learning and uploading projects little by little
 <br>
-❌ Nunca me rindo; mi meta es siempre esforzarme al máximo.
+❌  I never give up; my goal is always to do my best.
 
 ---
 
@@ -60,4 +60,4 @@
 ---
 
 <!-- Footer animado -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&lines=Gracias+por+visitar+mi+perfil!⭐;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&lines=Thank+you+for+visiting+my+profile!⭐;)
