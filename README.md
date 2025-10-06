@@ -1,8 +1,11 @@
 <h1 align="center"><b>Hi , I'm Alan Arturo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://giphy.com/gifs/TeelingWhiskeyCompany-phoenix-teeling-whiskey-IwDAefV0OxOMxw3I3t" width="30px">&nbsp;***About me***
 💻 I’m a Computer Systems Engineering student | Aspiring Software Engineer | Curious about coding, AI, and web development | Exploring new tech, building projects, and always learning
+- 👯 I’m looking forward to collaborate on open source projects.
+- 🌱 I’m currently learning to code.
+- ✔ Ask me about anything, I am happy to help
 - Outside tech, I enjoy 📖 reading, 🎵 listening to music, 🏯 exploring Japanese culture, and learning languages like English and Japanese.
 ---
 
