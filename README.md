@@ -5,7 +5,7 @@
 - 👯 I’m looking forward to collaborate on open source projects.
 - 🌱 I’m currently learning to code.
 - ✔ Ask me about anything, I am happy to help
-- Outside tech, I enjoy 📖 reading, 🎵 listening to music, 🏯 exploring Japanese culture, and learning languages like English and Japanese.
+- Outside tech, I enjoy 📖 reading, 🎵 listening to music, 🏯 sleeping, and learning languages like English and Japanese.
 ---
 
 # ⚔️ Skills
@@ -57,4 +57,10 @@
 ---
 
 <!-- Footer animado -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&lines=Thank+you+for+visiting+my+profile!⭐;)
