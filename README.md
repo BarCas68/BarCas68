@@ -5,7 +5,7 @@
 - 👯 I’m looking forward to collaborate on open source projects.
 - 🌱 I’m currently learning to code.
 - ✔ Ask me about anything, I am happy to help
-- Outside tech, I enjoy 📖 reading, 🎵 listening to music, 🏯 sleeping, and learning languages like English and Japanese.
+- Outside tech, I enjoy 📖 reading, 🎵 listening to music, sleeping, and learning languages like English and Japanese.
 ---
 
 # ⚔️ Skills
