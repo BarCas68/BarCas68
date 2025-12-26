@@ -32,7 +32,7 @@
 ---
 
 # 📊 Stats de GitHub
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarCas68&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BarCas68&theme=radical&hide_border=false)  
