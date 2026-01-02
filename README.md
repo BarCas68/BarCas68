@@ -30,12 +30,6 @@
 </div>
 
 ---
-
-# 📊 Stats de GitHub
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BarCas68&theme=radical&hide_border=false)  
-
 </div>
 
 ---
