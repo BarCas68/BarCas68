@@ -4,7 +4,7 @@
 💻 Computer Systems Engineering student focused on software development and problem-solving.
 Strongest in Java, building small projects to improve programming skills and understanding of real-world systems. <br>
 
-🔐 Interested in cybersecurity, currently learning fundamentals and exploring basic security concepts.
+🔐 Currently learning fundamentals and exploring security concepts
 
 👯 Open to collaborate on beginner-friendly open source projects.
 
