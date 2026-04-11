@@ -2,6 +2,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJmYjF2cTAwdmUxa3JtaXB5NmZseWd3ZWFxZmNvdXBwYm5ocm5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="300px" align="right">
 💻 Computer Systems Engineering student focused on software development and problem-solving.
 Strongest in Java, building small projects to improve programming skills and understanding of real-world systems.
+<br>
 
 🔐 Interested in cybersecurity, currently learning fundamentals and exploring basic security concepts.
 
