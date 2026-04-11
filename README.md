@@ -1,11 +1,27 @@
 <h1 align="center"><b>Hi , I'm BarCas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJmYjF2cTAwdmUxa3JtaXB5NmZseWd3ZWFxZmNvdXBwYm5ocm5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="300px" align="right">
 
-💻 I’m a Computer Systems Engineering student | Aspiring Software Engineer | Curious about coding, AI, and web development | Exploring new tech, building projects, and always learning
-- 👯 I’m looking forward to collaborate on open source projects.
-- 🌱 I’m currently learning to code.
-- ✔ Ask me about anything, I am happy to help
-- Outside tech, I enjoy 📖 reading, 🎵 listening to music, sleeping, and learning languages like English and Japanese.
+💻 Computer Systems Engineering student focused on software development and cybersecurity.
+I build small projects to improve my skills in programming, problem-solving, and system design.
+
+🚀 Currently working with:
+
+Python (automation, scripting)
+JavaScript (web fundamentals)
+Git & GitHub
+
+🌱 Learning:
+
+Data structures & algorithms
+Web development (frontend + backend basics)
+Cybersecurity fundamentals
+
+👯 Open to collaborate on beginner-friendly open source projects.
+
+📌 Current goal:
+Build consistent projects and strengthen my fundamentals as a developer.
+
+Outside tech: 📖 reading, 🎵 music, and learning English & Japanese.
 ---
 
 # ⚔️ Skills
