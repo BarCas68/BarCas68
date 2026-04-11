@@ -10,10 +10,13 @@ Strongest in Java, building small projects to improve programming skills and und
 🌱 Currently strengthening fundamentals in data structures, algorithms, and web development.
 
 🛠 Working with:
-
+<br>
 Java (main language)
+<br>
 Python (scripting and automation)
+<br>
 JavaScript (basics)
+<br>
 Git & GitHub
 
 📌 Goal:
