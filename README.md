@@ -11,14 +11,10 @@ Strongest in Java, building small projects to improve programming skills and und
 🌱 Currently strengthening fundamentals in data structures, algorithms, and web development.
 
 🛠 Working with:
-<br>
-Java (main language)
-<br>
-Python (scripting and automation)
-<br>
-JavaScript (basics)
-<br>
-Git & GitHub
+- Java (main language)
+- Python (scripting and automation)
+- JavaScript (basics)
+- Git & GitHub
 
 📌 Goal:
 Build consistent projects and grow as a software developer with an interest in cybersecurity.
